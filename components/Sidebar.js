@@ -5,7 +5,7 @@ export default function Sidebar() {
   return (
     <aside className="sidebar">
       <div className="brand">
-        <span className="brand-mark"><Wallet size={18} /></span> saku
+        <span className="brand-mark"><Wallet size={18} /></span> piento
       </div>
       <div className="nav-label">KEUANGAN PRIBADI</div>
       <Link href="/transaksi" className="nav-item active">

@@ -1,5 +1,5 @@
 -- =====================================================
--- Saku - Skema database (MySQL 8+, kompatibel Aiven)
+-- Piento - Skema database (MySQL 8+, kompatibel Aiven)
 -- Jalankan pada database yang sudah ada (mis. `defaultdb` di Aiven).
 -- =====================================================
 -- Pengguna (satu ruang keuangan pribadi per pengguna)

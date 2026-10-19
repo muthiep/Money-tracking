@@ -5,7 +5,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata = {
-  title: 'Saku – Keuangan pribadi',
+  title: 'Piento – Keuangan pribadi',
   description: 'Catat pemasukan dan pengeluaranmu dengan teratur.',
 };
 
